@@ -30,7 +30,7 @@ graph TD
         B3[Desarrollo Tecnológico]:::step3
         I1["📱 Interfaz de Entrada<br>(Voz, Multi-idioma, Accesible)"]:::step3
         I2["⚙️ Motor de Datos / IA<br>(Lógica y Respuestas Inteligentes)"]:::step3
-        I3["🎧 Interfaz de Salida<br>(Guía Autónoma Interactiva)"]:::step3
+        I3["🎧 Interfaz de Salida<br>(Guía Autónoma Interactive)"]:::step3
         B3 --> I1 --> I2 --> I3
     end
 
